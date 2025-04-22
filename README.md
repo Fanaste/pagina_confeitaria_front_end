@@ -24,7 +24,7 @@ Site responsivo desenvolvido para uma confeitaria fictícia, com layout atrativo
 
 ## 📲 Responsividade
 
-O projeto adapta seu layout de forma fluida para dispositivos móveis, tablets e desktops, garantindo uma boa experiência em qualquer resolução de tela.
+O projeto adapta o layout de forma fluida para dispositivos móveis, tablets e desktops, garantindo uma boa experiência em qualquer resolução de tela.
 
 ---
 
